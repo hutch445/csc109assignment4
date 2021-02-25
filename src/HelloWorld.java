@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Ni hao, shijie!");
 		System.out.println("Witaj swiecie");
 		System.out.println("hela velt");
+		System.out.println("vas iz deyn namen");
 	}
 
 }
