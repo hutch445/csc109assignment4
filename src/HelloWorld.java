@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Privyet mir!");
 		System.out.println("kak vas zovut?");
 		System.out.println("Ni hao, shijie!");
+		System.out.println("Witaj swiecie");
 	}
 
 }
